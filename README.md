@@ -43,10 +43,13 @@ I’m **Pramukh Nayak**, a developer focused on **Linux, Rust, and Embedded Syst
 ---
 
 ### 📊 GitHub Stats
+### 📊 GitHub Stats
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pramukhnayak7&show_icons=true&theme=dracula&hide_border=false" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pramukhnayak7&layout=compact&theme=dracula&hide_border=false" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=pramukhnayak7&show_icons=true&theme=dracula&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pramukhnayak7&layout=compact&theme=dracula&hide_border=true" height="150" />
 </div>
+
 
 ---
 
