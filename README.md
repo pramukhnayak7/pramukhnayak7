@@ -5,10 +5,8 @@ I’m **Pramukh Nayak**, a developer focused on **Linux, Rust, and Embedded Syst
 
 ### 👨‍💻 About Me
 - 🦀 Interested in **Rust systems programming**
-- 🐧 Daily Linux user (CLI > GUI)
-- 🔌 Working with **embedded systems & low-level code**
+- 🐧 Linux user
 - ⚙️ Enjoy performance, memory safety, and bare-metal concepts
-- 🎮 Into military & strategy games, anime, and tech deep dives
 
 ---
 
