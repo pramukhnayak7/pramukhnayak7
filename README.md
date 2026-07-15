@@ -4,7 +4,6 @@ I’m **Pramukh Nayak**, a developer focused on **Linux, Rust, and Embedded Syst
 ---
 
 ### 👨‍💻 About Me
-- 🦀 Interested in **Rust systems programming**
 - 🐧 Linux user
 - ⚙️ Enjoy performance, memory safety, and bare-metal concepts
 
