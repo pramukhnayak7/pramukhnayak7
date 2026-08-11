@@ -1,5 +1,5 @@
 ## Hi there 👋  
-I’m **Pramukh Nayak**, a developer focused on **Linux, Rust, and Embedded Systems**.
+I’m **Pramukh Nayak**
 
 ---
 
