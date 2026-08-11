@@ -26,11 +26,6 @@ I’m **Pramukh Nayak**, a developer focused on **Linux, Rust, and Embedded Syst
 
 ### 🔧 Focus Areas
 
-- Rust for systems
-- Linux internals & tooling
-- Microcontrollers & low-level programming
-- Performance-oriented design
-
 ---
 
 
